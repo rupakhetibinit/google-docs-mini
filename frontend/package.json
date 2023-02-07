@@ -1,0 +1,41 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hocuspocus/provider": "^1.0.1",
+    "@next/font": "13.1.6",
+    "@tiptap/core": "2.0.0-beta.213",
+    "@tiptap/extension-collaboration": "2.0.0-beta.213",
+    "@tiptap/extension-collaboration-cursor": "2.0.0-beta.213",
+    "@tiptap/pm": "2.0.0-beta.213",
+    "@tiptap/react": "2.0.0-beta.212",
+    "@tiptap/starter-kit": "2.0.0-beta.212",
+    "@types/node": "^18.11.18",
+    "@types/react": "18.0.27",
+    "@types/react-dom": "18.0.10",
+    "eslint": "8.33.0",
+    "eslint-config-next": "13.1.6",
+    "next": "13.1.6",
+    "prosemirror-model": "^1.19.0",
+    "prosemirror-state": "^1.4.2",
+    "prosemirror-view": "^1.30.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "^4.9.4",
+    "y-prosemirror": "^1.2.0",
+    "y-protocols": "^1.0.5",
+    "yjs": "^13.5.45"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4"
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"name": "google-docs-mini",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": ""
+	},
+	"keywords": [],
+	"author": "",
+	"license": "BSD"
+}
